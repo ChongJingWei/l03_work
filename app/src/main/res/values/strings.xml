@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">p03</string>
+    <string name="enter">Enter something</string>
+    <string name="Display">Display</string>
+    <string name="show">Display what user enters</string>
+    <string name="ToggleOff">TURN OFF</string>
+    <string name="ToggleOn">TURN ON</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Other">Other</string>
+</resources>
